@@ -1,3 +1,5 @@
+#MNIST Dataset
+
 https://www.kaggle.com/c/digit-recognizer
 
 2 Entries:
@@ -9,9 +11,10 @@ Then after attending OSDC 15, I made a multi-layer-preceptron implementation usi
 
 ## Accuracy 
 
-*SVC*
+**SVC**
 
 .90714 
 
-MLP
+**MLP**
+
 .93071
