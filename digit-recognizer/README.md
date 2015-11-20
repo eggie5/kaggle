@@ -9,7 +9,8 @@ Then after attending OSDC 15, I made a multi-layer-preceptron implementation usi
 
 ## Accuracy 
 
-*SVC
+*SVC*
+
 .90714 
 
 MLP
